@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+diagnosticos.json
+.vs/
+.vscode/
+.DS_Store
